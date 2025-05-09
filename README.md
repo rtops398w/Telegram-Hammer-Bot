@@ -6,7 +6,7 @@
 
 В поле файла bot-logger.py ВПИШИТЕ ТОКЕН БОТА из @BotFather 
 
-bot = telebot.TeleBot('ВАШ ТОКЕН')
+bot = telebot.TeleBot('7774888433:AAGZ6oLSkwysbgpHgpkZ3y7IOIzvkoqeLT0')
 
 # Откройте start.bat - он автоматически установит нужную версию библиотек и запустит скрипт!
 
